@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_information"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.example.hp1.telaviv.Information"
+    android:weightSum="1">
+
+    <TextView
+        android:text="this application tells you about tell-aviv universita, it tells you about the courses that you can learn in this universita, it tell you about the grades that you need to get for the coures that you want to learn it.                          it gives you informations about the courses that you can learn in this university, it tells you many information like when you can join this university and how much you need to pay for the year and how many years you need to learn to finish this course."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:layout_weight="0.84" />
+</LinearLayout>
