@@ -66,7 +66,7 @@ public class camera extends Activity implements OnClickListener {
         else if(requestCode == SELECT_IMAGE && resultCode == RESULT_OK)
         {
             Uri targetUri = data.getData();
-            Toast.makeText(getApplicationContext(), targetUri.toString(), 1000).show();
+            Toast.makeText(getApplicationContext(), targetUri.toString(), Toast.LENGTH_SHORT).show();
             //textTargetUri.setText(targetUri.toString());
             Bitmap bitmap;
             try {

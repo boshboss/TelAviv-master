@@ -72,6 +72,10 @@
         "source": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundone.jpg",
+        "source": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\src\\main\\res\\drawable\\backgroundone.jpg"
+    },
+    {
         "merged": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },

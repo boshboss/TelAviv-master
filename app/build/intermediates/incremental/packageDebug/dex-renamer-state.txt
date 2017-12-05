@@ -1,7 +1,4 @@
-#Tue Nov 14 12:01:00 IST 2017
-base.0=C\:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4c028f4ddd3fe8d6900b88dfe0ebe25b8f63c4f2
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c63db05b3a774c976f7681e5399858ffb59212be\\classes.dex
-base.1=C\:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c63db05b3a774c976f7681e5399858ffb59212be
-file.0=C\:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4c028f4ddd3fe8d6900b88dfe0ebe25b8f63c4f2\\classes.dex
+#Tue Dec 05 12:27:29 IST 2017
+base.0=C\:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
