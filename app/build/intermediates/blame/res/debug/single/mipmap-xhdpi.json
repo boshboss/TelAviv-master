@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp1\\Downloads\\TelAviv\\TelAviv\\TelAviv-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Hp1\\Downloads\\TelAviv\\TelAviv\\TelAviv-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]
