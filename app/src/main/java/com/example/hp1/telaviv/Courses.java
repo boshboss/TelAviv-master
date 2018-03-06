@@ -22,6 +22,7 @@ public class Courses extends AppCompatActivity implements AdapterView.OnItemClic
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_courses);
         lv1= (ListView) findViewById(R.id.lv1);
+
         courses.add(new String("Computers"));
         courses.add(new String("Doctor"));
         courses.add(new String("Lawyer"));

@@ -29,7 +29,6 @@ public class CourseDetailsActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fileread);
 
-
         String course = getIntent().getStringExtra("course");
 
         text = (TextView) findViewById(R.id.tvFileContent);
@@ -40,32 +39,31 @@ public class CourseDetailsActivity extends AppCompatActivity {
         if (course.equals("doctor")) {
             is = getResources().openRawResource(R.raw.doctorinfo);
         }
-
         if (course.equals("lawyer")) {
             is = getResources().openRawResource(R.raw.lawyerinfo);
-            }
-
-                try {
-                    temp = "";
-                    all = "";
-
-
-                    in = new InputStreamReader(is);
-                    br = new BufferedReader(in);
-
-
-                    while ((temp = br.readLine()) != null)
-                        all += temp + "\n";
-                    text.setText(all);
-                    is.close();
-
-                } catch (FileNotFoundException e) {
-                    e.printStackTrace();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-            }
         }
+        if (course.equals("education")) {
+            is = getResources().openRawResource(R.raw.teacherinfo);
+        }
+        try {
+            temp = "";
+            all = "";
+
+            in = new InputStreamReader(is);
+            br = new BufferedReader(in);
+
+            while ((temp = br.readLine()) != null)
+                all += temp + "\n";
+            text.setText(all);
+            is.close();
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+}
 
 
 

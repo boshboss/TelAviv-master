@@ -1,5 +1,17 @@
 [
     {
+        "merged": "C:\\Users\\Hp1\\Downloads\\Project\\TelAviv-masterrr\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lawyerinfo.dxt",
+        "source": "C:\\Users\\Hp1\\Downloads\\Project\\TelAviv-masterrr\\app\\src\\main\\res\\raw\\lawyerinfo.dxt"
+    },
+    {
+        "merged": "C:\\Users\\Hp1\\Downloads\\Project\\TelAviv-masterrr\\app\\build\\intermediates\\res\\merged\\debug\\raw\\computerinfo.dxt",
+        "source": "C:\\Users\\Hp1\\Downloads\\Project\\TelAviv-masterrr\\app\\src\\main\\res\\raw\\computerinfo.dxt"
+    },
+    {
+        "merged": "C:\\Users\\Hp1\\Downloads\\Project\\TelAviv-masterrr\\app\\build\\intermediates\\res\\merged\\debug\\raw\\doctorinfo.dxt",
+        "source": "C:\\Users\\Hp1\\Downloads\\Project\\TelAviv-masterrr\\app\\src\\main\\res\\raw\\doctorinfo.dxt"
+    },
+    {
         "merged": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\myfile.dxt",
         "source": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\src\\main\\res\\raw\\myfile.dxt"
     },
@@ -10,6 +22,10 @@
     {
         "merged": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lawyerinfo.dxt",
         "source": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\src\\main\\res\\raw\\lawyerinfo.dxt"
+    },
+    {
+        "merged": "C:\\Users\\Hp1\\Downloads\\Project\\TelAviv-masterrr\\app\\build\\intermediates\\res\\merged\\debug\\raw\\teacherinfo.dxt",
+        "source": "C:\\Users\\Hp1\\Downloads\\Project\\TelAviv-masterrr\\app\\src\\main\\res\\raw\\teacherinfo.dxt"
     },
     {
         "merged": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\doctorinfo.dxt",
@@ -26,6 +42,10 @@
     {
         "merged": "C:\\Users\\Hp1\\Downloads\\TelAviv\\TelAviv\\TelAviv-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\myfile.dxt",
         "source": "C:\\Users\\Hp1\\Downloads\\TelAviv\\TelAviv\\TelAviv-master\\app\\src\\main\\res\\raw\\myfile.dxt"
+    },
+    {
+        "merged": "C:\\Users\\Hp1\\Downloads\\Project\\TelAviv-masterrr\\app\\build\\intermediates\\res\\merged\\debug\\raw\\myfile.dxt",
+        "source": "C:\\Users\\Hp1\\Downloads\\Project\\TelAviv-masterrr\\app\\src\\main\\res\\raw\\myfile.dxt"
     },
     {
         "merged": "C:\\Users\\Hp1\\AndroidStudioProjects\\TelAviv-master\\TelAviv-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\computerinfo.dxt",

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TelAviv-master.iml" filepath="$PROJECT_DIR$/TelAviv-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelAviv-masterrr.iml" filepath="$PROJECT_DIR$/TelAviv-masterrr.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

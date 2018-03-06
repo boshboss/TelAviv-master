@@ -15,6 +15,7 @@ Button btcourse,btinfo,btregister,btphone;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         btphone=(Button)findViewById(R.id.btphone);
         btcourse=(Button)findViewById(R.id.btcourse);
         btinfo=(Button)findViewById(R.id.btinfo);
@@ -44,7 +45,7 @@ Button btcourse,btinfo,btregister,btphone;
     public void getnotification(View view){
         NotificationManager notificationmgr = (NotificationManager)getSystemService(NOTIFICATION_SERVICE);
         Notification notif = new Notification.Builder(this)
-                .setSmallIcon(R.drawable.logo)
+                .setSmallIcon(R.drawable.phone)
                 .setContentTitle("Phone:+972-3-640-8118")
                 .setContentText("Fax:03-633-0808")
                 .build();

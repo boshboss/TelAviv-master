@@ -18,7 +18,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/tv1"
         android:layout_gravity="center"
-        />
+        android:textSize="24sp"
+        android:textStyle="normal|bold|italic"
+        android:fontFamily="serif" />
 
     <Button
         android:text="Courses"
